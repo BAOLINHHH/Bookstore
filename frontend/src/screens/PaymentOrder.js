@@ -103,7 +103,7 @@ const PaymentOrder = () => {
                                   </p>
                                   </div>
                                   <div className="col-4">
-                                  <span>{ totalItem.total } </span>
+                                  <span>{ totalItem.total } VND </span>
                                   </div>
                                   </div>
                                   <div className="row">
@@ -112,7 +112,7 @@ const PaymentOrder = () => {
                                   </p>
                                   </div>
                                   <div className="col-4">
-                                  <span>{ totalItem.ship } </span>
+                                  <span>{ totalItem.ship } VND </span>
                                   </div>
                                   </div>
                                   <div className="row" style={{ fontWeight: '650'}}>
